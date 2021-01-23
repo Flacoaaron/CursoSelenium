@@ -3,7 +3,7 @@
   <groupId>AutomatioGeneration</groupId>
   <artifactId>AutomatioGeneration</artifactId>
   <version>0.0.1-SNAPSHOT</version>
- <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
+ 
 <dependencies>
 
 		<dependency>
