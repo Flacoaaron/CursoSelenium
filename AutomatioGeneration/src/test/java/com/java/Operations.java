@@ -53,7 +53,25 @@ public class Operations {
 		}
 		
 		
+		
+		//condicionales 
+		//&& and
+		//|| or
+		
+		int var1 = 5;
+		int var2 = 6;
+		int var3 = 3;
+		int var4 = 3;
+		
+		if (var1 == var2 && var3 == var4) {
+			System.out.println("var 1 y 3 iguales and var 3 y 4 iguales");
+		}
 
+		if (var1 == var2 || var3 == var4) {
+			System.out.println( "var 1 y 2 iguales o var 3 y 4 iguales");
+		}
+		
+		
 		
 	}
 
