@@ -71,7 +71,7 @@ public class Operations {
 			System.out.println( "var 1 y 2 iguales o var 3 y 4 iguales");
 		}
 		
-		
+		//condicionales
 		
 	}
 
