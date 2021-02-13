@@ -17,13 +17,13 @@ public class Operations {
 		int A = 2;
 		int B = 2;
 		
-//		System.out.println(-A);
+		System.out.println(-A);
 //		System.out.println(--A);
 //		System.out.println(-B);
 //		System.out.println(--B);
 //		System.out.println(+A);
 //		System.out.println(++A);
-//		System.out.println(+B);
+		System.out.println(+B);
 		System.out.println(++B);
 		
 		//Relacionales
